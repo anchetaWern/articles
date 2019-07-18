@@ -85,7 +85,7 @@ This is where I keep the links to all the tutorials and articles I've ever writt
 -   [Adding animations to your React Native app – Part 3: Gesture animations](https://blog.pusher.com/animation-react-native-part-3/)
 
 -   [Using TypeScript with React Native](https://blog.pusher.com/typescript-react-native/)
--   [Adding authentication to a React Native app with Auth0](Adding authentication to a React Native app with Auth0)
+-   [Adding authentication to a React Native app with Auth0](https://blog.pusher.com/react-native-auth0/)
 
 ### jscrambler
 
