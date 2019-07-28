@@ -15,6 +15,7 @@ This is where I keep the links to all the tutorials and articles I've ever writt
 
 ### Pusher Tutorial Hub
 
+-   [Build a game using device sensors in React Native](https://pusher.com/tutorials/game-device-sensors-react-native)
 -   [Creating a chat app with multi-lingual speech to text capability in React Native](https://pusher.com/tutorials/speech-text-react-native)
 -   [Using Auth0 for authenticating users in a React Native chat app](https://pusher.com/tutorials/auth0-react-native-chat)
 -   [Implement Chatkit roles and permissions in a React Native chat app - Part 1: Setting permissions on the server](https://pusher.com/tutorials/chatkit-react-native-permissions-part-1)
