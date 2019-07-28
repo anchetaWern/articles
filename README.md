@@ -6,6 +6,7 @@ This is where I keep the links to all the tutorials and articles I've ever writt
 
 ### Heartbeat Blog
 
+-   [Creating a “Pokédex” Chatbot with React Native and Dialogflow](https://heartbeat.fritz.ai/creating-a-pok%C3%A9dex-chatbot-with-react-native-and-dialogflow-1f33199dc566)
 -   [Creating an accelerometer-powered maze game in React Native](https://heartbeat.fritz.ai/creating-an-accelerometer-powered-maze-game-in-react-native-9daedb5740b3)
 
 ### Stream Blog
