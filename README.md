@@ -109,6 +109,11 @@ This is where I keep the links to all the tutorials and articles I've ever writt
 
 ## 2017
 
+### AppendTo
+
+-   [3 Libraries and 3 Ways to Handle AJAX in React Apps](https://appendto.com/2017/01/3-libraries-and-3-ways-to-handle-ajax-in-react-apps/)
+-   [Handling Events in React 101](https://appendto.com/2017/01/react-events-101/)
+
 ### Pusher Tutorial Hub
 
 -   [Build a ride hailing app with React Native](https://pusher.com/tutorials/ride-hailing-react-native)
@@ -133,6 +138,11 @@ This is where I keep the links to all the tutorials and articles I've ever writt
 -   [Calendar as a Service in PHP? Easy, with Google Calendar API!](https://www.sitepoint.com/calendar-as-a-service-in-php-easy-with-google-calendar-api/)
 
 ## 2016
+
+### AppendTo
+
+-   [Mapping Colorado’s 14er Mountains: React and Redux Mega Tutorial](https://appendto.com/2016/10/mapping-colorados-14er-mountains-with-react-and-redux/)
+-   [Creating a Realtime Pokedex App with React and RethinkDB](https://appendto.com/2016/09/creating-a-realtime-pokedex-app-with-react-and-rethinkdb/)
 
 ### SitePoint
 
