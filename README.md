@@ -14,8 +14,19 @@ This is where I keep the links to all the tutorials and articles I've ever writt
 -   [Building an ecommerce Chatbot with React Native and Dialogflow](https://getstream.io/blog/building-an-ecommerce-chatbot-with-react-native-and-dialogflow)
 -   [Use Gifted Chat UI with React Native](https://getstream.io/blog/tutorial-use-gifted-chat-ui-with-react-native/)
 
+### Jscrambler
+
+- [Create a Pokedex App with NativeScript-Vue](https://blog.jscrambler.com/creating-a-pokedex-app-with-nativescript-vue/)
+- [Getting Started with Animations in NativeScript](https://blog.jscrambler.com/getting-started-with-animations-in-nativescript/)
+- [Getting Started with VR in React Native with ViroReact](https://blog.jscrambler.com/getting-started-with-vr-in-react-native-with-viroreact/)
+
 ### Pusher Tutorial Hub
 
+-   [Implementing a Reply to message feature in a React Native chat app](https://pusher.com/tutorials/reply-message-react-native-chat)
+-   [Implementing read cursors feature in a React Native chat app](https://pusher.com/tutorials/read-cursor-react-native-chat)
+-   [Building a media conversion server for a React Native chat app](https://pusher.com/tutorials/media-conversion-react-native)
+-   [Create a facial recognition attendance app in React Native](https://pusher.com/tutorials/facial-recognition-react-native)
+-   [Profanity moderation in a React Native chat app](https://pusher.com/tutorials/profanity-moderation-react-native-chat)
 -   [Migrating from Sendbird to Chatkit](https://pusher.com/tutorials/migrating-sendbird-chatkit)
 -   [Migrating from Firebase to Pusher Chatkit](https://pusher.com/tutorials/migrating-firebase-chatkit)
 -   [Build a game using device sensors in React Native](https://pusher.com/tutorials/game-device-sensors-react-native)
@@ -43,6 +54,10 @@ This is where I keep the links to all the tutorials and articles I've ever writt
 -   [Creating offline-friendly React Native apps - Part 2: Real-world example](https://pusher.com/tutorials/offline-react-native-part-2)
 
 ## 2018
+
+### Jscrambler
+
+- [React Native vs Ionic vs NativeScript: A Practical Guide](https://blog.jscrambler.com/react-native-vs-ionic-vs-nativescript-a-practical-guide/)
 
 ### Pusher Tutorial Hub
 
