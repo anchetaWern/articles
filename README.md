@@ -4,6 +4,12 @@ This is where I keep the links to all the tutorials and articles I've ever writt
 
 ## 2019
 
+### Hackernoon
+
+- [[A Step by Step Guide] Create a Carpooling App with React Native - Part 1: Setting up the server](https://hackernoon.com/create-a-carpooling-app-with-react-native-part-1-setting-up-the-server-sw193djk)
+- [[A Step by Step Guide] Create a Carpooling App with React Native - Part 2: Creating the Frontend](https://hackernoon.com/create-a-carpooling-app-with-react-native-part-2-creating-the-frontend-rxd553dpy)
+- [Creating a ride booking app with React Native](https://hackernoon.com/creating-a-ride-booking-app-with-react-native-chnk31xn)
+
 ### Heartbeat Blog
 
 -   [Creating a “Pokédex” Chatbot with React Native and Dialogflow](https://heartbeat.fritz.ai/creating-a-pok%C3%A9dex-chatbot-with-react-native-and-dialogflow-1f33199dc566)
@@ -52,6 +58,11 @@ This is where I keep the links to all the tutorials and articles I've ever writt
 -   [Accepting payments in React Native](https://pusher.com/tutorials/react-native-payments)
 -   [Creating offline-friendly React Native apps - Part 1: General tips](https://pusher.com/tutorials/offline-react-native-part-1)
 -   [Creating offline-friendly React Native apps - Part 2: Real-world example](https://pusher.com/tutorials/offline-react-native-part-2)
+
+### Crowdbotics
+
+- [Accepting Stripe Payments in React Native](https://blog.crowdbotics.com/accepting-stripe-payments-in-react-native-2/)
+
 
 ## 2018
 
