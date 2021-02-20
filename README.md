@@ -2,7 +2,37 @@
 
 This is where I keep the links to all the tutorials and articles I've ever written.
 
+## 2021
+
+### LogRocket
+
+- [Top React date pickers for 2021](https://blog.logrocket.com/top-react-date-pickers-for-2021/)
+
+### SitePoint
+
+- [Getting Started with the React Native Navigation Library](https://www.sitepoint.com/react-native-navigation-library/)
+- [Getting Started with Laravel Livewire](https://www.sitepoint.com/laravel-livewire-getting-started/)
+
+### CometChat
+
+- [How to Build a Virtual Event Site with Laravel and JavaScript](https://www.cometchat.com/tutorials/how-to-build-a-virtual-event-site-with-laravel-and-javascript)
+
+## 2020
+
+### Jscrambler
+
+- [Creating a Real-Time Location Tracking App with NativeScript-Vue](https://blog.jscrambler.com/creating-a-real-time-location-tracking-app-with-nativescript-vue/)
+
+### LogRocket
+
+- [The ultimate roundup of React form validation solutions](https://blog.logrocket.com/the-ultimate-roundup-of-react-form-validation-solutions/)
+- [React Native Web VS Flutter Web](https://blog.logrocket.com/react-native-web-vs-flutter-web/)
+
 ## 2019
+
+### SitePoint
+
+- [Getting Started with React Native](https://www.sitepoint.com/getting-started-with-react-native/)
 
 ### Hackernoon
 
@@ -22,6 +52,7 @@ This is where I keep the links to all the tutorials and articles I've ever writt
 
 ### Jscrambler
 
+- [Performance Optimizations in NativeScript](https://blog.jscrambler.com/performance-optimizations-in-nativescript/)
 - [Create a Pokedex App with NativeScript-Vue](https://blog.jscrambler.com/creating-a-pokedex-app-with-nativescript-vue/)
 - [Getting Started with Animations in NativeScript](https://blog.jscrambler.com/getting-started-with-animations-in-nativescript/)
 - [Getting Started with VR in React Native with ViroReact](https://blog.jscrambler.com/getting-started-with-vr-in-react-native-with-viroreact/)
@@ -35,8 +66,6 @@ This is where I keep the links to all the tutorials and articles I've ever writt
 -   [Create a facial recognition attendance app in React Native](https://pusher.com/tutorials/facial-recognition-react-native)
 -   [Build a game using device sensors in React Native](https://pusher.com/tutorials/game-device-sensors-react-native)
 -   [Getting started with GraphQL in React Native](https://pusher.com/tutorials/learning-graphql-react-native)
-
-
 -   [Creating a whiteboard Electron app with React - Part 1: Adding the whiteboard](https://pusher.com/tutorials/whiteboard-electron-react-part-1)
 -   [Create a live multiplayer quiz app in React Native](https://pusher.com/tutorials/live-multiplayer-quiz-react-native)
 -   [Building a video call and chat app - Part 1: Adding WebRTC Video Streams](https://pusher.com/tutorials/video-call-electron-part-1)
