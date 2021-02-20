@@ -31,36 +31,18 @@ This is where I keep the links to all the tutorials and articles I've ever writt
 -   [Create a food ordering app in React Native - Part 1: Making an order](https://pusher.com/tutorials/food-ordering-app-react-native-part-1)
 -   [Create a food ordering app in React Native - Part 2: Adding the driver app and chat functionality](https://pusher.com/tutorials/food-ordering-app-react-native-part-2)
 -   [Create a food ordering app in React Native - Part 3: Adding push notifications](https://pusher.com/tutorials/food-ordering-app-react-native-part-3)
--   [Implementing a Reply to message feature in a React Native chat app](https://pusher.com/tutorials/reply-message-react-native-chat)
--   [Implementing read cursors feature in a React Native chat app](https://pusher.com/tutorials/read-cursor-react-native-chat)
 -   [Building a media conversion server for a React Native chat app](https://pusher.com/tutorials/media-conversion-react-native)
 -   [Create a facial recognition attendance app in React Native](https://pusher.com/tutorials/facial-recognition-react-native)
--   [Profanity moderation in a React Native chat app](https://pusher.com/tutorials/profanity-moderation-react-native-chat)
--   [Migrating from Sendbird to Chatkit](https://pusher.com/tutorials/migrating-sendbird-chatkit)
--   [Migrating from Firebase to Pusher Chatkit](https://pusher.com/tutorials/migrating-firebase-chatkit)
 -   [Build a game using device sensors in React Native](https://pusher.com/tutorials/game-device-sensors-react-native)
--   [Creating a chat app with multi-lingual speech to text capability in React Native](https://pusher.com/tutorials/speech-text-react-native)
--   [Using Auth0 for authenticating users in a React Native chat app](https://pusher.com/tutorials/auth0-react-native-chat)
--   [Implement Chatkit roles and permissions in a React Native chat app - Part 1: Setting permissions on the server](https://pusher.com/tutorials/chatkit-react-native-permissions-part-1)
--   [Implement Chatkit roles and permissions in a React Native chat app - Part 2: Setting permissions on the client](https://pusher.com/tutorials/chatkit-react-native-permissions-part-2)
 -   [Getting started with GraphQL in React Native](https://pusher.com/tutorials/learning-graphql-react-native)
--   [Integrate Chatkit webhooks in a React Native chat app](https://pusher.com/tutorials/webhooks-react-native-chat)
--   [Build a full-featured chatroom app with React Native](https://pusher.com/tutorials/chatroom-app-react-native)
--   [Syncing Chatkit messages in the background in React Native](https://pusher.com/tutorials/background-sync-react-native)
--   [Integrating Dropbox in your React Native chat app](https://pusher.com/tutorials/dropbox-react-native-chat)
--   [Add Youtube and web page link previews to your React Native chat app](https://pusher.com/tutorials/link-previews-react-native-chat)
--   [Playing audio and video file attachments in a React Native chatroom](https://pusher.com/tutorials/audio-video-files-react-native)
+
+
 -   [Creating a whiteboard Electron app with React - Part 1: Adding the whiteboard](https://pusher.com/tutorials/whiteboard-electron-react-part-1)
--   [Creating a whiteboard Electron app with React - Part 2: Adding the group chat](https://pusher.com/tutorials/whiteboard-electron-react-part-2)
 -   [Create a live multiplayer quiz app in React Native](https://pusher.com/tutorials/live-multiplayer-quiz-react-native)
 -   [Building a video call and chat app - Part 1: Adding WebRTC Video Streams](https://pusher.com/tutorials/video-call-electron-part-1)
--   [Building a video call and chat app - Part 2: Adding a group chat with Chatkit](https://pusher.com/tutorials/video-call-electron-part-2)
--   [Building a video call and chat app - Part 3: Packaging the app](https://pusher.com/tutorials/video-call-electron-part-3)
 -   [Create a two-player maze game with React Native](https://pusher.com/tutorials/maze-game-react-native)
 -   [Create a two-player Pong game with React Native](https://pusher.com/tutorials/react-native-pong-game)
 -   [Accepting payments in React Native](https://pusher.com/tutorials/react-native-payments)
--   [Creating offline-friendly React Native apps - Part 1: General tips](https://pusher.com/tutorials/offline-react-native-part-1)
--   [Creating offline-friendly React Native apps - Part 2: Real-world example](https://pusher.com/tutorials/offline-react-native-part-2)
 
 ### Crowdbotics
 
@@ -85,9 +67,8 @@ This is where I keep the links to all the tutorials and articles I've ever writt
 -   [React Native development tools - Part 1: Linting tools](https://pusher.com/tutorials/react-native-development-tools-part-1-linting)
 -   [React Native development tools - Part 2: Debugging tools](https://pusher.com/tutorials/react-native-development-tools-part-2-debugging-tools)
 -   [Create a two-player memory game with React Native](https://pusher.com/tutorials/memory-game-react-native)
--   [Create a file-sharing app with React Native](https://pusher.com/tutorials/file-sharing-react-native)
+
 -   [Create a live workout tracking app with React Native](https://pusher.com/tutorials/workout-tracker-react-native)
--   [Creating a chat app with React Native and Chatkit](https://pusher.com/tutorials/chat-react-native-chatkit)
 -   [Adding analytics to a React Native app](https://pusher.com/tutorials/adding-analytics-react-native-app)
 
 -   [React Native development tools - Part 3: Testing tools](https://pusher.com/tutorials/react-native-development-tools-part-3-testing-tools)
@@ -151,7 +132,6 @@ This is where I keep the links to all the tutorials and articles I've ever writt
 
 -   [Code a Real-Time NativeScript App: Geolocation and Google Maps](http://code.tutsplus.com/tutorials/code-a-real-time-nativescript-app-geolocation-and-google-maps--cms-29001)
 -   [Code a Real-Time NativeScript App: SQLite](http://code.tutsplus.com/tutorials/code-a-real-time-nativescript-app-sqlite--cms-29057)
-
 -   [Code a Real-Time NativeScript App: Social Login and Firebase](http://code.tutsplus.com/tutorials/code-a-real-time-nativescript-app-social-login-and-firebase--cms-29413)
 -   [Code a Real-Time App With NativeScript: Push Notifications](http://code.tutsplus.com/tutorials/code-a-real-time-app-with-nativescript-push-notifications--cms-29475)
 -   [Get Started With Ionic Services: Auth](http://code.tutsplus.com/tutorials/get-started-with-ionic-services-auth--cms-28705)
