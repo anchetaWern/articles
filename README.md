@@ -4,8 +4,14 @@ This is where I keep the links to all the tutorials and articles I've ever writt
 
 ## 2021
 
+### Personal Blog
+
+- [Getting started with Facades in Laravel](https://wernancheta.hashnode.dev/getting-started-with-facades-in-laravel)
+- [A primer to service container in Laravel](https://wernancheta.hashnode.dev/laravel-service-container)
+
 ### LogRocket
 
+- [Implementing in-app purhcases in React Native](https://blog.logrocket.com/implementing-in-app-purchases-in-react-native/)
 - [Top React date pickers for 2021](https://blog.logrocket.com/top-react-date-pickers-for-2021/)
 
 ### SitePoint
@@ -15,6 +21,7 @@ This is where I keep the links to all the tutorials and articles I've ever writt
 
 ### CometChat
 
+- [Creating a dating app with React Native and CometChat](https://www.cometchat.com/tutorials/create-a-dating-app-with-react-native-and-cometchat)
 - [How to Build a Virtual Event Site with Laravel and JavaScript](https://www.cometchat.com/tutorials/how-to-build-a-virtual-event-site-with-laravel-and-javascript)
 
 ## 2020
