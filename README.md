@@ -13,11 +13,13 @@ This is where I keep the links to all the tutorials and articles I've ever writt
 
 - [Implementing in-app purhcases in React Native](https://blog.logrocket.com/implementing-in-app-purchases-in-react-native/)
 - [Top React date pickers for 2021](https://blog.logrocket.com/top-react-date-pickers-for-2021/)
+- [Using React Native ChartKit to visualize data](https://blog.logrocket.com/using-react-native-chart-kit-visualize-data/)
 
 ### SitePoint
 
 - [Getting Started with the React Native Navigation Library](https://www.sitepoint.com/react-native-navigation-library/)
 - [Getting Started with Laravel Livewire](https://www.sitepoint.com/laravel-livewire-getting-started/)
+- [Get Started with Bubble, a No-code Tool for Building Serious Apps](https://www.sitepoint.com/bubble-build-apps-no-code/)
 
 ### CometChat
 
