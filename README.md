@@ -2,6 +2,13 @@
 
 This is where I keep the links to all the tutorials and articles I've ever written.
 
+## 2023
+
+### HoneyBadger
+
+- [Getting started with asynchronous PHP using ReactPHP](https://www.honeybadger.io/blog/getting-started-with-reactphp/)
+- [Laravel code quality tools](https://www.honeybadger.io/blog/laravel-code-quality-tools/)
+
 ## 2022
 
 ### LogRocket
